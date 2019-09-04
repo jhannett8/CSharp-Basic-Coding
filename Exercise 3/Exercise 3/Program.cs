@@ -27,26 +27,12 @@ namespace Exercise_3
             Console.WriteLine("Please, insert another number.");
             string number_4 = Console.ReadLine();
             int Number_4 = Convert.ToInt32(number_4);
-            if (Number_4 > 50)
-            {
-                Console.WriteLine("Is your number, " + Number_4 + " greater than 50? True");
-            }
-            else if (Number_4 == 50)
-            {
-                Console.WriteLine("Is your number, " + Number_4 + " greater than 50? False");
-                Console.WriteLine("Your number is Equal To 50.");
-            }
-            else 
-            {
-                Console.WriteLine("Is your number, " + Number_4 + ", greater than 50? False");
-                Console.WriteLine("Your number is Less Than 50."); 
-            }
-            
+            Console.WriteLine("Is your number, " + Number_4 + " greater than 50? " + (Number_4 > 50));
             Console.WriteLine("Please, insert another number.");
             string number_5 = Console.ReadLine();
             int Number_5 = Convert.ToInt32(number_5);
             int total_5 = Number_5 / 7;
-            float remainder_5 = Number_5 % 7;
+            int remainder_5 = Number_5 % 7;
             Console.WriteLine("Your Number, divided by 7 is: " + total_5);
             Console.WriteLine("With a remainder of: " + remainder_5);
             Console.WriteLine();

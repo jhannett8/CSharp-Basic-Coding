@@ -1,0 +1,11 @@
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\bin\Debug\netcoreapp2.1\Exercise_7.deps.json
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\bin\Debug\netcoreapp2.1\Exercise_7.runtimeconfig.json
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\bin\Debug\netcoreapp2.1\Exercise_7.runtimeconfig.dev.json
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\bin\Debug\netcoreapp2.1\Exercise_7.dll
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\bin\Debug\netcoreapp2.1\Exercise_7.pdb
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\obj\Debug\netcoreapp2.1\Exercise_7.csprojAssemblyReference.cache
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\obj\Debug\netcoreapp2.1\Exercise_7.csproj.CoreCompileInputs.cache
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\obj\Debug\netcoreapp2.1\Exercise_7.AssemblyInfoInputs.cache
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\obj\Debug\netcoreapp2.1\Exercise_7.AssemblyInfo.cs
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\obj\Debug\netcoreapp2.1\Exercise_7.dll
+C:\Users\16313\source\repos\Exercise_7\Exercise_7\obj\Debug\netcoreapp2.1\Exercise_7.pdb

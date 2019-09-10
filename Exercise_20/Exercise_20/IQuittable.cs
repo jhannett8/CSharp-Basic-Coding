@@ -5,9 +5,9 @@ using System.Linq;
 
 namespace Exercise_20
 {
-    public interface IQuittable
+    public interface IQuittable 
     {
-        void Quit(string Name);
+        void IQuit(string Name);
 
     }
 }

@@ -16,10 +16,9 @@ namespace Exercise_20
         {
             PersonList.Remove(Name);
         }
-        public void Quit(string Name)
+        public void IQuit(string Employee)
         {
-            PersonList.Remove(Name); 
-            //throw new NotImplementedException();
+            PersonList.Remove(Name);
         }
         
 

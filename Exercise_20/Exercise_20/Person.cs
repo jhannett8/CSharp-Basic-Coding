@@ -13,16 +13,17 @@ namespace Exercise_20
 
         public abstract void DeletePerson(string Name);
 
-        public virtual void SayName()
-        {
-            Console.WriteLine("Name: {0} ", Name);
-        }
         public virtual void ListPersons()
         {
             foreach (string Person in PersonList)
             {
                 Console.WriteLine(Person);
             }
+        }
+
+        public virtual void SayName()
+        {
+            Console.WriteLine("Name: {0} ", Name);
         }
 
     }

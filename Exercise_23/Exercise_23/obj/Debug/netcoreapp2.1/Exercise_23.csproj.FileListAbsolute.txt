@@ -1,0 +1,11 @@
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\obj\Debug\netcoreapp2.1\Exercise_23.csprojAssemblyReference.cache
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\obj\Debug\netcoreapp2.1\Exercise_23.csproj.CoreCompileInputs.cache
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\obj\Debug\netcoreapp2.1\Exercise_23.AssemblyInfoInputs.cache
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\obj\Debug\netcoreapp2.1\Exercise_23.AssemblyInfo.cs
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\bin\Debug\netcoreapp2.1\Exercise_23.deps.json
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\bin\Debug\netcoreapp2.1\Exercise_23.runtimeconfig.json
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\bin\Debug\netcoreapp2.1\Exercise_23.runtimeconfig.dev.json
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\bin\Debug\netcoreapp2.1\Exercise_23.dll
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\bin\Debug\netcoreapp2.1\Exercise_23.pdb
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\obj\Debug\netcoreapp2.1\Exercise_23.dll
+C:\Users\16313\Desktop\C#\Exercises\Exercise_23\Exercise_23\obj\Debug\netcoreapp2.1\Exercise_23.pdb

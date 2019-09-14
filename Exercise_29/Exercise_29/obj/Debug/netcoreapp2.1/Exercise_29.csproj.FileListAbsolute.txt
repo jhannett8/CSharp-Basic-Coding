@@ -1,0 +1,11 @@
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\bin\Debug\netcoreapp2.1\Exercise_29.deps.json
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\bin\Debug\netcoreapp2.1\Exercise_29.runtimeconfig.json
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\bin\Debug\netcoreapp2.1\Exercise_29.runtimeconfig.dev.json
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\bin\Debug\netcoreapp2.1\Exercise_29.dll
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\bin\Debug\netcoreapp2.1\Exercise_29.pdb
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\obj\Debug\netcoreapp2.1\Exercise_29.csprojAssemblyReference.cache
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\obj\Debug\netcoreapp2.1\Exercise_29.csproj.CoreCompileInputs.cache
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\obj\Debug\netcoreapp2.1\Exercise_29.AssemblyInfoInputs.cache
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\obj\Debug\netcoreapp2.1\Exercise_29.AssemblyInfo.cs
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\obj\Debug\netcoreapp2.1\Exercise_29.dll
+C:\Users\16313\Desktop\C#\Exercises\Exercise_29\Exercise_29\obj\Debug\netcoreapp2.1\Exercise_29.pdb
